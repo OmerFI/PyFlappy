@@ -1,0 +1,2 @@
+# This file only requires if you execute python file instead of the .exe file (or the elf file)
+pygame>=2.0.1

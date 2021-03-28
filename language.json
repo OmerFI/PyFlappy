@@ -1,0 +1,46 @@
+{
+    "en": {
+        "TEXTS": {
+            "WINNER_TEXT": "YOU WON!",
+            "LINE_TEXTS": [
+                null,
+                "Coding:",
+                "\u00d6mer Furkan \u0130\u015fleyen",
+                "Design:",
+                "\u00d6mer Furkan \u0130\u015fleyen",
+                "Icons made by Freepik from www.flaticon.com",
+                "Background vector created by freepik - www.freepik.com",
+                "Music:",
+                "\"beeps-18 1.wav\" by Greencouch ( https://freesound.org/people/Greencouch/ )",
+                "licensed under CCBY 3.0"
+            ]
+        },
+        "IMAGES": {
+            "PLAY_BUTTON": "play_button_en.png",
+            "CONTRIBUTORS_BUTTON": "contributors_button_en.png",
+            "INFO_SCREEN": "info_screen_en.jpg"
+        }
+    },
+    "tr": {
+        "TEXTS": {
+            "WINNER_TEXT": "KAZANDIN!",
+            "LINE_TEXTS": [
+                null,
+                "Kodlama:",
+                "\u00d6mer Furkan \u0130\u015fleyen",
+                "Tasar\u0131m:",
+                "\u00d6mer Furkan \u0130\u015fleyen",
+                "\u0130konlar www.flaticon.com adresinden Freepik taraf\u0131ndan yap\u0131lm\u0131\u015ft\u0131r",
+                "Arka plan vekt\u00f6r\u00fc freepik taraf\u0131ndan olu\u015fturulmu\u015ftur - www.freepik.com",
+                "M\u00fczik:",
+                "Greencouch taraf\u0131ndan \"beeps-18 1.wav\" ( https://freesound.org/people/Greencouch/ )",
+                "CCBY 3.0 alt\u0131nda lisansl\u0131d\u0131r"
+            ]
+        },
+        "IMAGES": {
+            "PLAY_BUTTON": "play_button_tr.png",
+            "CONTRIBUTORS_BUTTON": "contributors_button_tr.png",
+            "INFO_SCREEN": "info_screen_tr.jpg"
+        }
+    }
+}
