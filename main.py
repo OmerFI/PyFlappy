@@ -57,7 +57,7 @@ BACK_BUTTON_Y = 45
 
 # setting windows, caption, icon
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Flappy Bird")
+pygame.display.set_caption("PyFlappy")
 pygame.display.set_icon(icon)
 
 # loading JSON for supporting multi-languages
