@@ -18,8 +18,7 @@ This game was made by using Python. In this game, there is a main menu, info (he
 
 ### Installation
 Go to the releases page: https://github.com/OmerFI/PyFlappy/releases/tag/v1.0
-There are 3 options.
-- The first one is installing the setup file (only windows).
+- There are 3 options. The first one is installing the setup file (only windows).
 - The second one is installing the portable version (only windows).
 - The other one is installing the Linux version. The Linux version does not include a ".deb" or ".rpm" file, only includes the ELF file and source codes.
 
