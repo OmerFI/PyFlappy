@@ -1,5 +1,8 @@
 # What is PyFlappy?
-[![Image](https://github.com/OmerFI/PyFlappy/blob/main/Assets/birds/1.png)]()
+
+![Bird](https://user-images.githubusercontent.com/54645034/113009156-6027e200-9180-11eb-8eb9-0a8d0668230a.png)
+
+
 PyFlappy is a game made by using Python.
 
 [![Version](https://img.shields.io/badge/Version-v1.0-orange)]()
