@@ -10,7 +10,7 @@ PyFlappy is a game made by using Python.
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 
 This game was made by using Python. In this game, there is a main menu, info (help) screen, level menu, and game. There are 5 levels in the game. When you pass a level, you automatically move on to another level.
-There are 2 language supports. English and Turkish.
+There are 2 language supports. These are English and Turkish.
 
 # Gallery
 ![Main_Menu](https://user-images.githubusercontent.com/54645034/113009570-bdbc2e80-9180-11eb-9de1-de1d00cc84f2.png)
