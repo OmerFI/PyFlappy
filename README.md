@@ -48,7 +48,3 @@ On Linux:
 ```
 python3 main.py
 ```
-
-### Any Bugs or Improvement Advice
-Please contact me.
-> omergumushane@hotmail.com
